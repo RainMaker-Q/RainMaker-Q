@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rain
+- 👋 Hi, I’m @SnowCleaner
 - 👀 I’m interested in web, ml, reading, runing  ...
-- 🌱 I like reading, my favorite writers are wangxiaobo、ひがしのけいご、yuhua ...
-- 🏃🏻‍♀️ I like running, and I joined a new company recently. Now I run every week, about 50-80km a month. 🐜
+- 🌱 I like reading, my favorite writers are wangxiaobo、ひがしのけいご ... [recording](https://blog.snow-cleaner.top/reading-list-h5/)
+- 🏃🏻‍♀️ I like running. Now I run every week, about 20-30km a month. 🐜
 
 <!---
 RainMaker-Q/RainMaker-Q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
